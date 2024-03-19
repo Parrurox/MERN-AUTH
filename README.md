@@ -39,7 +39,7 @@ Before running the application, make sure you have the following installed:
    - Add the following variables:
 
      ```plaintext
-     PORT=3000
+     PORT=5000
      MONGODB_URI=your-mongodb-uri
      JWT_SECRET=your-jwt-secret
      ```

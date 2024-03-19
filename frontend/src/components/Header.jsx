@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import { Navbar, Nav, Container, NavDropdown, Badge } from "react-bootstrap";
 import { FaSignInAlt, FaSignOutAlt } from "react-icons/fa";
 import { LinkContainer } from "react-router-bootstrap";
